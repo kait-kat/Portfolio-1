@@ -1,6 +1,7 @@
 import Navbar from './components/navbar';
 import Footer from './components/footer';
 import About from './components/about';
+import Projects from './components/projects';
 import './App.css';
 
 function App() {
@@ -10,7 +11,6 @@ function App() {
       <Navbar />
       <About />
       <Projects />
-      <Links />
       <Footer />
 
  </div>

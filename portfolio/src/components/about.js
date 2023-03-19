@@ -1,6 +1,6 @@
 export default function About () {
     return (
-        <div className='md:w-3/6' data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" >
+        <div class="bg-red-200 p-6 md:container md:mx-auto">
         <div className="flex flex-col w-full mt-8">
             <h1 className="text-xl text-gray-400">Hello! I'm</h1>
             <h1 className="text-2xl font-bold">Kaitlyn Heinle</h1>
