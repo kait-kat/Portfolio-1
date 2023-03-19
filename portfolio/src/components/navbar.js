@@ -1,4 +1,4 @@
-import { FontAwesomeIcon } from '@fontawesome/react-fontawesome'
+
 
 export default function Navbar() {
     return (
