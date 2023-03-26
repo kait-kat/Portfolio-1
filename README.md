@@ -1,3 +1,3 @@
 # Portfolio
 
-A presentation to potential employers of all my accomplishments.
+Portfolio made in React built with Next.js and TailwindCSS.
